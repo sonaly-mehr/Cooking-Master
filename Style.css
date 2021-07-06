@@ -1,0 +1,112 @@
+body{
+    background-color: #EDD263;
+}
+.cooking-master{
+    padding-bottom: 100px;
+}
+.header-section{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.header{}
+.header-section h4{
+    font-weight: 700;
+}
+.menu ul{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu ul li{
+    list-style: none;
+    margin-left: 40px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+.serach-bar{
+    text-align: center;
+    padding-bottom: 80px;
+}
+.serach-bar i{
+    font-size: 16px;
+    background: #3B2D64;
+    display: inline-block;
+    padding: 17px;
+    color: #fff;
+}
+.serach-bar input{
+    border: none;
+    width: 40%;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 15px;
+    outline: none;
+}
+.serach-bar button{
+    border: none;
+    background: #3B2D64;
+    color: #fff;
+    font-size: 14px;
+    width: 7%;
+    margin-left: -11px;
+    height: 51px;
+}
+.single-meal{
+    margin-bottom:30px ;
+}
+.single-meal img{
+    width: 80%;
+    margin-left: 30px;
+}
+.single-meal h4{
+    font-size: 16px;
+    background: #fff;
+    width: 80%;
+    margin-left: 29px;
+    padding: 15px;
+    text-align: center;
+    padding-top: 8px;
+    font-weight: 600;
+}
+#meal-details{
+}
+.single-meal-detail{
+    text-align: center;
+}
+.single-meal-detail img{
+    width: 35%;
+}
+.ingredient-title{
+    padding: 20px;
+    position: relative;
+    margin-top: -30px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: #fff;
+    width: 35%;
+    margin:0 auto;
+    text-align: left;
+}
+.single-meal-detail h2{
+    font-weight: 600;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+.single-meal-detail h6{
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.meal-detail-list ul{
+    margin-left: -30px;
+}
+.meal-detail-list ul li{
+    list-style: none;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+.meal-detail-list ul li i{
+    margin-right: 10px;
+}
